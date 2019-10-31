@@ -1,0 +1,24 @@
+Nombre de la Agenda:  Agenda
+     Nombre   ||   Telefono   ||   Email
+
+La Agenda es:  [['ulises', '992023244', 'email1@gmail.com'], ['juan_perez', '23232323', 'perez@live.com']]
+
+La Agenda es:  [['ulises', '992023244', 'email1@gmail.com'], ['juan_perez', '23232323', 'perez@live.com']]
+
+
+
+--------------------------------------
+
+Lo que yo espero es: 
+
+--------------------------------------
+
+Nombre de la agenda: Agenda
+
+Nombre: Ulises
+Telefono: 992023244
+email: email1@gmail.com
+
+Nombre: Juan_perez
+Telefono: 23232323
+email: perez@gmail.com
